@@ -14,6 +14,8 @@ RobloxFix es un programa que te permite arreglar alguno errores que tiene Roblox
 
 - 1.- Descarga el codigo desde Releases.
 
+<img src= "https://cdn.discordapp.com/attachments/991215245358010432/1042543083897765979/image.png" alt="RobloxFix">
+
 - 2.- Extrae el archivo.
 
 - 3.- Ejecuta el archivo "RobloxFix.exe".
