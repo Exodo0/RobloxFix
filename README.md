@@ -28,7 +28,7 @@ El FPS Unlocker es un programa que te permite jugar a Roblox con una cantidad de
 
 Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60 a 240 FPS.
 
-<img src= "https://cdn.discordapp.com/attachments/991215245358010432/1042372488820183070/Full-Settings.png" alt= "RobloxFix" width= "100%" height= "100%>
+<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372488820183070/Full-Settings.png?width=756&height=472" alt= "RobloxFix" width= "100%" height= "100%>
 
 <img src= "https://media.discordapp.net/attachments/991215245358010432/1042372489155715072/Set2.png?width=725&height=130" alt= "RobloxFix" width= "100%" height= "100%">
 
