@@ -22,12 +22,18 @@ RobloxFix es un programa que te permite arreglar alguno errores que tiene Roblox
 
 - 5.- Listo, ya puedes jugar a Roblox sin problemas.
 
-## Vienen incluiddo FPS Unlocker
+## Vienen incluido FPS Unlocker
 
-El FPS Unlocker es un programa que te permite jugar a Roblox con una cantidad de FPS.
+FPS Unlocker es un programa que te permite jugar a Roblox con una cantidad de FPS.
 
 Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60 a 240 FPS.
 
-<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372488820183070/Full-Settings.png?width=1024&height=472" alt= "RobloxFix" width= "100%" height= "100%>
+# Como usar el FPS Unlocker?
+
+- Cada vez que quieras jugar a Roblox, debes ejecutar el FPS Unlocker. Primero
+
+<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372489155715072/Set2.png?width=725&height=130" alt= "RobloxFix">
+
+<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372488820183070/Full-Settings.png?width=756&height=472" alt= "RobloxFix">
 
 Espero que te sirva.
