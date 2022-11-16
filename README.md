@@ -30,10 +30,11 @@ Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60
 
 # Como usar el FPS Unlocker?
 
-- Cada vez que quieras jugar a Roblox, debes ejecutar el FPS Unlocker. Primero
+- Cada vez que quieras jugar a Roblox, debes ejecutar Primero FPS Unlocker.
 
 <img src= "https://media.discordapp.net/attachments/991215245358010432/1042372489155715072/Set2.png?width=725&height=130" alt= "RobloxFix">
 
-<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372488820183070/Full-Settings.png?width=756&height=472" alt= "RobloxFix">
+<img src= "https://media.discordapp.net/attachments/991215245358010432/1042378295024570389/image.png?width=123&height=26" alt= "RobloxFix">
+
 
 Espero que te sirva.
