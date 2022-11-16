@@ -36,5 +36,4 @@ Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60
 
 <img src= "https://media.discordapp.net/attachments/991215245358010432/1042378295024570389/image.png?width=123&height=26" alt= "RobloxFix">
 
-
-Espero que te sirva.
+## Espero que te sirva.
