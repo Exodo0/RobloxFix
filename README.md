@@ -32,9 +32,6 @@ Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60
 
 - Cada vez que quieras jugar a Roblox, debes ejecutar Primero FPS Unlocker.
 
-
-<img src= "https://media.discordapp.net/attachments/991215245358010432/1042378295024570389/image.png?width=123&height=26" alt= "RobloxFix">
-
 - Importante:
 
 - Algunos Juegos Pueden cargarte sin Texturas. Puedes revertir esto Borrando el Fix
