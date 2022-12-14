@@ -14,8 +14,6 @@ RobloxFix es un programa que te permite arreglar alguno errores que tiene Roblox
 
 - 1.- Descarga el codigo desde Releases.
 
-<img src= "https://cdn.discordapp.com/attachments/991215245358010432/1042543083897765979/image.png" alt="RobloxFix">
-
 - 2.- Extrae el archivo.
 
 - 3.- Ejecuta el archivo "RobloxFix.exe".
@@ -34,7 +32,6 @@ Depende de mucho de tu computadora, Para entregarte una cantidad de FPS entre 60
 
 - Cada vez que quieras jugar a Roblox, debes ejecutar Primero FPS Unlocker.
 
-<img src= "https://media.discordapp.net/attachments/991215245358010432/1042372489155715072/Set2.png?width=725&height=130" alt= "RobloxFix">
 
 <img src= "https://media.discordapp.net/attachments/991215245358010432/1042378295024570389/image.png?width=123&height=26" alt= "RobloxFix">
 
